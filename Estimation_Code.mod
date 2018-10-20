@@ -1,10 +1,7 @@
 // SAMBA: Stochastic Analytical Model with a Bayesian Approach
 // Based on: BCB Working Paper 239
 
-// Code by: Paulo de Carvalho Lins and Victor Nomi
-// IBRE/FGV paulo.lins@fgv.br; victor.nomi@fgv.br
-// Rio de Janeiro, 14, May, 2018
-// Prepared for the Macroeconomia Computável course, May 2018
+// Code by: Paulo Lins,Victor Nomi,Gabriel Novais,Gabriel Cunha,Pedro Henrique.
 
 //DEBUG MODE
 //1. added autorregressive equation for preference shock rho_C 
